@@ -1,7 +1,7 @@
 {
     "description": "Anna Hsu's personal site",
     "color_scheme": "light",
-    "accent_color": "blue",
+    "accent_color": "violet",
     "header": {
         "title": "Exto",
         "has_nav": true,
